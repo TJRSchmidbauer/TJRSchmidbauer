@@ -43,7 +43,6 @@ Technikbegeisterter, humorvoller und ziemlich experimentierfreudiger **Lehrer f�
 | Projekt | Beschreibung |
 |---|---|
 | [📊 Plotoria](https://github.com/TJRSchmidbauer/Plotoria) | Interaktive Visualisierung mit JavaScript |
-| [📡 HeiLaut-Sensoren](https://github.com/TJRSchmidbauer/HeiLaut-Sensoren) | C++-Sensorik: Messwerte erfassen & sichtbar machen |
 | [📐 Vectronix](https://github.com/TJRSchmidbauer/Vectronix) | Vektoren zum Anfassen – direkt im Browser |
 | [🎛️ pinslim](https://github.com/TJRSchmidbauer/pinslim) | Arduino-, ESP32- & Pi-Emulator im Browser (19 Boards) |
 | [🔧 Schaltplandesigner](https://schmidbauer.io/) | DER Schaltplandesigner für Lehrkräfte |
