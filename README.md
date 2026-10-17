@@ -4,9 +4,9 @@
 
 ### ⚛️ Physiklehrer am Tag · 🛠️ Maker & Docker-Nerd bei Nacht · 📄 LaTeX-Perfektionist immer
 
-[![Website](https://img.shields.io/badge/🌐_Website-schmidbauer.io-5eead4?style=for-the-badge)](https://schmidbauer.io/)
-[![Portfolio](https://img.shields.io/badge/✨_Portfolio-tjrschmidbauer.github.io-818cf8?style=for-the-badge)](https://tjrschmidbauer.github.io/)
-[![MakerWorld](https://img.shields.io/badge/🖨️_MakerWorld-@Schmidbauer-f472b6?style=for-the-badge)](https://makerworld.com/de/@Schmidbauer)
+[![Website](https://img.shields.io/badge/🌐_Website-schmidbauer.io-F6B48F?labelColor=2E2A28&style=for-the-badge)](https://schmidbauer.io/)
+[![Portfolio](https://img.shields.io/badge/✨_Portfolio-tjrschmidbauer.github.io-E8836B?labelColor=2E2A28&style=for-the-badge)](https://tjrschmidbauer.github.io/)
+[![MakerWorld](https://img.shields.io/badge/🖨️_MakerWorld-@Schmidbauer-F6CFC6?labelColor=2E2A28&style=for-the-badge)](https://makerworld.com/de/@Schmidbauer)
 
 </div>
 
@@ -51,8 +51,8 @@ Technikbegeisterter, humorvoller und ziemlich experimentierfreudiger **Lehrer f�
 
 Ob Kolleg:innen, Technik-Nerds oder neugierige Menschen – ich freue mich über Ideen und Feedback:
 
-[![Blog](https://img.shields.io/badge/Blog-schmidbauer.io-5eead4?style=flat-square)](https://schmidbauer.io/)
-[![Kontakt](https://img.shields.io/badge/Kontakt-Formular-818cf8?style=flat-square)](https://schmidbauer.io/contact-us/)
+[![Blog](https://img.shields.io/badge/Blog-schmidbauer.io-F6B48F?labelColor=2E2A28&style=flat-square)](https://schmidbauer.io/)
+[![Kontakt](https://img.shields.io/badge/Kontakt-Formular-E8836B?labelColor=2E2A28&style=flat-square)](https://schmidbauer.io/contact-us/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@schmidbauer-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/schmidbauer.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-@tjr.schmidbauer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tjr.schmidbauer)
 [![X](https://img.shields.io/badge/X-@ma____phy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ma__phy)
