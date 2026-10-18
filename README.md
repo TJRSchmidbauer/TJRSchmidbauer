@@ -60,5 +60,7 @@ Ob Kolleg:innen, Technik-Nerds oder neugierige Menschen – ich freue mich über
 ---
 
 <div align="center">
+<sub><a href="https://schmidbauer.io/impressum/">Impressum</a> · <a href="https://schmidbauer.io/datenschutz/">Datenschutz</a></sub>
+<br>
 <sub>⚠️ <strong>Rein privat:</strong> Alle Inhalte hier geben ausschließlich meine persönliche Meinung wieder und stellen keine offiziellen Stellungnahmen irgendeiner Institution, Behörde oder Schule dar.</sub>
 </div>
