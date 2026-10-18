@@ -45,14 +45,13 @@ Technikbegeisterter, humorvoller und ziemlich experimentierfreudiger **Lehrer f�
 | [📊 Plotoria](https://github.com/TJRSchmidbauer/Plotoria) | Interaktive Visualisierung mit JavaScript |
 | [📐 Vectronix](https://github.com/TJRSchmidbauer/Vectronix) | Vektoren zum Anfassen – direkt im Browser |
 | [🎛️ pinslim](https://github.com/TJRSchmidbauer/pinslim) | Arduino-, ESP32- & Pi-Emulator im Browser (19 Boards) |
-| [🔧 Schaltplandesigner](https://schmidbauer.io/) | DER Schaltplandesigner für Lehrkräfte |
+| [🔧 Schaltplandesigner](https://tjrschmidbauer.github.io/Vectronix/) | DER Schaltplandesigner für Lehrkräfte |
 
 ## 📬 Kontakt & Austausch
 
 Ob Kolleg:innen, Technik-Nerds oder neugierige Menschen – ich freue mich über Ideen und Feedback:
 
 [![Blog](https://img.shields.io/badge/Blog-schmidbauer.io-F6B48F?labelColor=2E2A28&style=flat-square)](https://schmidbauer.io/)
-[![Kontakt](https://img.shields.io/badge/Kontakt-Formular-E8836B?labelColor=2E2A28&style=flat-square)](https://schmidbauer.io/contact-us/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@schmidbauer-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/schmidbauer.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-@tjr.schmidbauer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tjr.schmidbauer)
 [![X](https://img.shields.io/badge/X-@ma____phy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ma__phy)
